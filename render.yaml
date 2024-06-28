@@ -1,0 +1,6 @@
+build:
+  context:./backendYelle
+  dockerfile: backendYelle/Dockerfile
+
+compose:
+  file: backendYelle/docker-compose.yml
