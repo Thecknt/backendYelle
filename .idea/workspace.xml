@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="443b1016-fb07-4e1f-a193-9c8101801e67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/backendYelle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backendYelle/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/classes/com/envios/yelle/Controller/MainController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/classes/com/envios/yelle/Exceptions/ApplicationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/classes/com/envios/yelle/Model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/classes/com/envios/yelle/Repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/classes/com/envios/yelle/Service/IUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/classes/com/envios/yelle/Service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/classes/com/envios/yelle/YelleApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/test-classes/com/envios/yelle/YelleApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/yelle-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendYelle/target/yelle-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backendYelle" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2iUGzcuTr21GYLvyMtX9JwdvhrK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.YelleBackend.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.yelle [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.yelle [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="YelleBackend" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.envios.yelle.YelleApplication" />
+      <module name="yelle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="443b1016-fb07-4e1f-a193-9c8101801e67" name="Changes" comment="" />
+      <created>1719538009877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719538009877</updated>
+    </task>
+    <servers />
+  </component>
+</project>

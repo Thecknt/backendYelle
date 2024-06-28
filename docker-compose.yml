@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  yelle:
+    build: .
+    environment:
+      DB_URL: jdbc:postgresql://yelle_db_user:YyOezYGBtJaMBUj0gNivDktNdVVXz18N@dpg-cpv4j11u0jms73akc3gg-a/yelle_db&serverTimezone=UTC
+      DB_USERNAME: yelle_db_user
+      DB_PASSWORD: YyOezYGBtJaMBUj0gNivDktNdVVXz18N
+      VIRTUAL_PORT: 8080
