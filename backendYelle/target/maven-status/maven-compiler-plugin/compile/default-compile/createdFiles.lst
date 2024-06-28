@@ -1,0 +1,7 @@
+com\envios\yelle\Model\User.class
+com\envios\yelle\YelleApplication.class
+com\envios\yelle\Controller\MainController.class
+com\envios\yelle\Service\UserService.class
+com\envios\yelle\Exceptions\ApplicationException.class
+com\envios\yelle\Repository\UserRepository.class
+com\envios\yelle\Service\IUserService.class
