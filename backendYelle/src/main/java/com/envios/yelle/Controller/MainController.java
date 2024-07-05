@@ -69,7 +69,7 @@ public class MainController {
     }
 
     @DeleteMapping("/eliminarUsuario/{idUser}")
-    public ResponseEntity<Map<String, Boolean>> deleteUser(Long idUser){
+    public ResponseEntity<Map<String, Boolean>> deleteUser(@PathVariable Long idUser){
         User user = userRepository.findById(idUser).orElse(null);
         if (user == null){
             throw new ApplicationException("usuario no encontrado con el id:"+idUser,HttpStatus.NOT_FOUND);

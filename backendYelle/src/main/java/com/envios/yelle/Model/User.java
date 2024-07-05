@@ -26,8 +26,8 @@ public class User {
 
     @NotNull
     private String location;
-    @NotNull
 
+    @NotNull
     private String province;
 
     @NotNull

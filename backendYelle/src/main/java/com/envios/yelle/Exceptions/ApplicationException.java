@@ -3,6 +3,7 @@ package com.envios.yelle.Exceptions;
 import org.springframework.http.HttpStatus;
 
 public class ApplicationException extends RuntimeException{
+
     private static final long serialVersionUID = 1L;
 
     private HttpStatus status;
